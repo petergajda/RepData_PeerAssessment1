@@ -1,7 +1,8 @@
 ---
 title: 'Reproducable Research: Programming Assignment 1'
 output:
-  html_document: default
+  html_document: 
+    keep_md: yes
   md_document: default
   pdf_document: default
 ---
